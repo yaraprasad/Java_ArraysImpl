@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel target="17">
-      <module name="Java_Collections" target="" />
+      <module name="Java_ArraysImpl" target="" />
     </bytecodeTargetLevel>
   </component>
 </project>

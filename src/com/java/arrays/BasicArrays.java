@@ -1,9 +1,9 @@
-package com.java.collections;
+package com.java.arrays;
 
 import java.util.Arrays;
 import java.util.List;
 
-public class BasicCollections {
+public class BasicArrays {
     public static void main(String[] args) {
 
         List<String> list = Arrays.asList("India","Pakistan");
